@@ -1,12 +1,12 @@
 ### Hallo, ik ben Bart - oftwel [BPHvZ][website] 👋
 
 ## Ik ben een Student en Developer!
-- 🤓 Op dit moment bezig met [mijn website][website]!
+- 🤓 Ik ben op dit moment bezig met [mijn website][website]!
 - 📚 3e jaars HBO-ICT (voltijd) student aan [windesheim]
-- 🥅 2020 Goals: Het tweede jaar van mijn studie voltooien en een stage doen
+- 🥅 2020 Goals: Het tweede jaar van mijn studie voltooien (✅) en een stage volgen (✅)
 - ⚡ Fun fact: Ik houd van koken en bakken
 
-### Contactgegevens:
+### Socials:
 
 [<img align="left" alt="bartvanzeist.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Bart van Zeist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -26,14 +26,20 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt="Command line" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <br />
 <br />
 
 ---
-
-<img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BPHvZ&show_icons=true&hide_border=true" />
+<img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BPHvZ&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" />
+&nbsp;
+<img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPHvZ&layout=compact&theme=dark&hide_border=true" />
 
 [website]: https://bartvanzeist.nl
 [windesheim]: https://www.windesheim.nl/opleidingen/voltijd/bachelor/hbo-ict-zwolle
