@@ -13,7 +13,7 @@ Born in the Netherlands, 19 years old, fluent in Dutch 🇳🇱 and English 🇬
 - 🥅 2020 Goals: finish the second year of my studies (✅) and do an internship (✅)
 - ⚡ Fun fact: I like baking and cooking
 
-### Contact me
+### Contact me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/bart-van-zeist-543442193)
 [![mailto](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartvanzeist2000@gmail.com)
 
@@ -41,16 +41,14 @@ Born in the Netherlands, 19 years old, fluent in Dutch 🇳🇱 and English 🇬
 
 ---
 
-### My workspace specs 💻
-<p align='center'>
-  Desktop:<br/>
+### My Workspace Specs 💻:
+Desktop:<br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/amd-Ryzen%205%203600-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-rtx%202070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /><br/>
-  Laptop:<br/>
-    <img src="https://img.shields.io/badge/apple-macbook%20pro%202017%2013″-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-</p>
+Laptop:<br/>
+  <img src="https://img.shields.io/badge/apple-macbook%20pro%202017%2013″-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 
 ---
 
