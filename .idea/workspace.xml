@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="BuildServerSettings">
-    <option name="LOGIN" value="" />
-    <option name="SERVER_URL" value="" />
+    <option name="LOGIN" value="BPHvZ" />
+    <option name="SERVER_URL" value="http://localhost:8111" />
     <option name="COMMIT_PATTERN" value="{message}" />
     <option name="REMEMBER_ME" value="true" />
     <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
@@ -42,9 +42,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57d0756d-7132-4987-b08c-74afd4594fe9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/waka.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/readme.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/waka.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/waka.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <workItem from="1596826715954" duration="1813000" />
       <workItem from="1597056571916" duration="82000" />
       <workItem from="1598808709650" duration="5198000" />
-      <workItem from="1598817740475" duration="1047000" />
+      <workItem from="1598817740475" duration="1646000" />
     </task>
     <servers />
   </component>
@@ -107,9 +106,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="834" y="320" key="SettingsEditor" timestamp="1598817692808">
+    <state x="834" y="320" key="SettingsEditor" timestamp="1598820448216">
       <screen x="0" y="25" width="2560" height="1359" />
     </state>
-    <state x="834" y="320" key="SettingsEditor/2560.565.1440.875/0.25.2560.1359@0.25.2560.1359" timestamp="1598817692808" />
+    <state x="834" y="320" key="SettingsEditor/2560.565.1440.875/0.25.2560.1359@0.25.2560.1359" timestamp="1598820448216" />
   </component>
 </project>
