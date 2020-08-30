@@ -1,19 +1,23 @@
-### Hallo, ik ben Bart - oftwel [BPHvZ][website] 👋
+<h2 align='center'>
+  Hi there👋 I'm Bart 👨‍💻
+  <br/>
+  <a href="https://bartvanzeist.nl">
+      <img src="https://img.shields.io/badge/bartvanzeist-%2300B9C0.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfiAwgWLCV/0iI9AAADQUlEQVRIx43V/WuWZRQH8I+3e6a2aZQaiU4nouB8KdCCoF+2/aZtQTldUMwMAsuX/oBArT+hX7JMCILehIdq0MteHucrhc9mkq7NPRKxNpUp5obNsWdXP+zu3tsz7bp+Oed7n/O9zn2uc841R+G1Wq0t1liIQTlZ3/jD/1rFDugQCux2+xQ/zL1eThAMaHRPh/POu+ieRgOCoMfO2Z3n+VQQZG2zxg2tFkhLe0SbfmtsjyM7XjiOpc4I7nhNJCWr02NIS+NxXX5RJNLgb8Epi6e7p7QJcirAYcM2kRDwtBHvgnV+F5w1byrBcUG/pWCl4dh4goDD7lkRx3pd8PFk91cE9wXNKnBMrwUzCEr0+QgbtMTWdRMXlxO8qsplY5oNO5BQTxDwjn80G/ObSg2Cq1LjH/YL2kVIqdMpGNLqiHpVMjKq1XtPqyHBZTsUIXJRsHec4FfBtuScU350wJd6pxRRry/s1yST2NUI2qFcMKAohhcZsTuW51uuSZMV5sfIG0YsjOW5BgTlkRfRaDSGn5JyLpaH/WXIkF7DMXJWyuZYzvseL0S2ojUJbINhuVlrtcf9uFLEXlsjq9GdgMv0yc9KMKrP8kTrxuoii3DIYAxutsRXk1yeYYq+WH0SwyI8Gk07Y47wwG4NM+ydETyXAO9P+p3phTSehSOJ/LygLZLD2gS8aZk5s54fedLNRFuHa5EsqhPwilIrZyUoV+JyolXhAquMuZUU0hJ5u5L2KdOiRZmSpOnyySRIuW1MGXQItie8Wd866IT+KaXc72sHNfo5sasVXBgX9wk6RCi2S7dgUJND6lTKyKhU57Amg4IuO6Uw16WJZirWI2hQrVNei1ENBW/hdaNajLmiyh5B13/tzM54RDRZj7ROc2cQFOlyAhWaBSOClybn9xPB9XikbZT35gyCt4xaD55wQ3B0+lA9KcjZCD50Zzy/CUG5uz4Am1wTnJ452pc4Lbhrt0ipa06blxDMd06PEpE9BgVtM8f6eDKPCYKLajxryGciaWmRzw3aqtYlQXD0QQ/cDlcFwS0n5f0gI+MnozJuC4IuLz/sdUx5W3vBxzVr78TFTWrHgmuVGlusVYoh3bK+82chw38BLahOufsyPpsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTgtMDMtMDhUMjI6NDQ6MzYrMDA6MDDGIPDuAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE4LTAzLTA4VDIyOjQ0OjM2KzAwOjAwt31IUgAAAABJRU5ErkJggg==" />        
+    </a>&nbsp;&nbsp;
+</h2>
 
-## Ik ben een Student en Developer!
-- 🤓 Ik ben op dit moment bezig met [mijn website][website]!
-- 📚 3e jaars HBO-ICT (voltijd) student aan [windesheim]
-- 🥅 2020 Goals: Het tweede jaar van mijn studie voltooien (✅) en een stage volgen (✅)
-- ⚡ Fun fact: Ik houd van koken en bakken
+### I'm a student and developer.
+Born in the Netherlands, 19 years old, fluent in Dutch 🇳🇱 and English 🇬🇧(CAE)
+- 🤓 I'm currently working on [my own website][website]!
+- 📚 I'm in my third year of studies towards a bachelor's in Computer Sciences @ [windesheim]
+- 🥅 2020 Goals: finish the second year of my studies (✅) and do an internship (✅)
+- ⚡ Fun fact: I like baking and cooking
 
-### Socials:
+### Contact me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/bart-van-zeist-543442193)
+[![mailto](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartvanzeist2000@gmail.com)
 
-[<img align="left" alt="bartvanzeist.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Bart van Zeist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-### Talen en Tools:
-
+### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -34,12 +38,28 @@
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <br />
-<br />
 
 ---
-<img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BPHvZ&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" />
-&nbsp;
-<img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPHvZ&layout=compact&theme=dark&hide_border=true" />
+
+### My workspace specs 💻
+<p align='center'>
+  Desktop:<br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/amd-Ryzen%205%203600-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-rtx%202070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /><br/>
+  Laptop:<br/>
+    <img src="https://img.shields.io/badge/apple-macbook%20pro%202017%2013″-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.bphvz.vercel.app/api?username=BPHvZ&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" />
+  &nbsp;
+  <img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.bphvz.vercel.app/api/top-langs/?username=BPHvZ&layout=compact&theme=dark&hide_border=true" />
+</details>
 
 [website]: https://bartvanzeist.nl
 [windesheim]: https://www.windesheim.nl/opleidingen/voltijd/bachelor/hbo-ict-zwolle
