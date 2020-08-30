@@ -42,8 +42,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57d0756d-7132-4987-b08c-74afd4594fe9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/waka.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/waka.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/waka.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/readme.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
       <workItem from="1596826715954" duration="1813000" />
       <workItem from="1597056571916" duration="82000" />
       <workItem from="1598808709650" duration="5198000" />
-      <workItem from="1598817740475" duration="763000" />
+      <workItem from="1598817740475" duration="1047000" />
     </task>
     <servers />
   </component>
