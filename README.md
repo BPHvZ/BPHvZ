@@ -59,6 +59,9 @@ Laptop:<br/>
   <img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.bphvz.vercel.app/api/top-langs/?username=BPHvZ&layout=compact&theme=dark&hide_border=true" />
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [website]: https://bartvanzeist.nl
 [windesheim]: https://www.windesheim.nl/opleidingen/voltijd/bachelor/hbo-ict-zwolle
 [linkedin]: https://nl.linkedin.com/in/bart-van-zeist-543442193

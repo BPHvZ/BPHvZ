@@ -42,6 +42,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57d0756d-7132-4987-b08c-74afd4594fe9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/waka.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -54,6 +55,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fmNgLWOukxgD32lLv0jPbOCBvI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,6 +67,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +81,8 @@
       <workItem from="1596819420190" duration="133000" />
       <workItem from="1596826715954" duration="1813000" />
       <workItem from="1597056571916" duration="82000" />
-      <workItem from="1598808709650" duration="4663000" />
+      <workItem from="1598808709650" duration="5198000" />
+      <workItem from="1598817740475" duration="392000" />
     </task>
     <servers />
   </component>
@@ -93,5 +99,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="834" y="320" key="SettingsEditor" timestamp="1598817692808">
+      <screen x="0" y="25" width="2560" height="1359" />
+    </state>
+    <state x="834" y="320" key="SettingsEditor/2560.565.1440.875/0.25.2560.1359@0.25.2560.1359" timestamp="1598817692808" />
   </component>
 </project>
