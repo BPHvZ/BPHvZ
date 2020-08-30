@@ -109,16 +109,17 @@ Sunday       54 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     34 mins             █████████████░░░░░░░░░░░░   52.83% 
+Markdown                 30 mins             ███████████░░░░░░░░░░░░░░   47.17%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 5 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BPHvZ                    1 hr 5 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 5 mins         █████████████████████████   100.0%
 
 ```
 
