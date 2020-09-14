@@ -64,11 +64,11 @@ Laptop:<br/>
 [linkedin]: https://nl.linkedin.com/in/bart-van-zeist-543442193
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 150 Contributions in the Year 2020
+> 🏆 153 Contributions in the Year 2020
  > 
 > 📦 115.9 kB Used in Github's Storage 
  > 
