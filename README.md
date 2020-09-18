@@ -64,7 +64,7 @@ Laptop:<br/>
 [linkedin]: https://nl.linkedin.com/in/bart-van-zeist-543442193
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
