@@ -64,7 +64,7 @@ Laptop:<br/>
 [linkedin]: https://nl.linkedin.com/in/bart-van-zeist-543442193
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
@@ -107,16 +107,17 @@ Sunday       58 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 24 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    1 hr 24 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Huiswerk3                1 hr 19 mins        ███████████████████████░░   94.08% 
+Huiswerk2                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.92%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 24 mins        █████████████████████████   100.0%
 
 ```
 
