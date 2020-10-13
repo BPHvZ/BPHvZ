@@ -107,17 +107,16 @@ Sunday       60 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-C#                       1 hr 34 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    1 hr 34 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Huiswerk6                1 hr 34 mins        █████████████████████████   99.56% 
-Huiswerk5                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
