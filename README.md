@@ -7,7 +7,7 @@
 </h2>
 
 ### I'm a student and developer.
-Born in the Netherlands, 19 years old, fluent in Dutch 🇳🇱 and English 🇬🇧(CAE)
+Born in the Netherlands, 20 years old, fluent in Dutch 🇳🇱 and English 🇬🇧(CAE)
 - 🤓 I'm currently working on [my own website][website]!
 - 📚 I'm in my third year of studies towards a bachelor's in Computer Sciences @ [windesheim]
 - 🥅 2020 Goals: finish the second year of my studies (✅) and do an internship (✅)
