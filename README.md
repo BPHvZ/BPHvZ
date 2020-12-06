@@ -74,9 +74,9 @@ Laptop:<br/>
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories
+> 📜 8 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 9 Private Repositories  
 
 **I'm an Early 🐤** 
 
