@@ -68,7 +68,7 @@ Laptop:<br/>
 
 **🐱 My Github Data** 
 
-> 🏆 179 Contributions in the Year 2020
+> 🏆 180 Contributions in the Year 2020
  > 
 > 📦 117.7 kB Used in Github's Storage 
  > 
