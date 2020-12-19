@@ -107,17 +107,16 @@ Sunday       49 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Swift                    1 min               ██████████████████████░░░   89.42% 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   10.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Xcode                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FlappyBirdAR             2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
