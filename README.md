@@ -70,7 +70,7 @@ Laptop:<br/>
 
 > 🏆 1 Contributions in the Year 2021
  > 
-> 📦 118.9 kB Used in Github's Storage 
+> 📦 119.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
