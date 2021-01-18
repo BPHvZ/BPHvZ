@@ -40,7 +40,7 @@ Born in the Netherlands, 20 years old, fluent in Dutch 🇳🇱 and English (CAE
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=c sharp&logoColor=white" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white" />
