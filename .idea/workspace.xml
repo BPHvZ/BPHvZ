@@ -23,9 +23,7 @@
     <option name="SERVER_URL" value="http://localhost:8111" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57d0756d-7132-4987-b08c-74afd4594fe9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="57d0756d-7132-4987-b08c-74afd4594fe9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <workItem from="1597056571916" duration="82000" />
       <workItem from="1598808709650" duration="5198000" />
       <workItem from="1598817740475" duration="3056000" />
-      <workItem from="1610970466818" duration="9332000" />
+      <workItem from="1610970466818" duration="9418000" />
     </task>
     <servers />
   </component>
