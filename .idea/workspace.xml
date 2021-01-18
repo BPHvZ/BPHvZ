@@ -21,29 +21,12 @@
   <component name="BuildServerSettings">
     <option name="LOGIN" value="BPHvZ" />
     <option name="SERVER_URL" value="http://localhost:8111" />
-    <option name="COMMIT_PATTERN" value="{message}" />
-    <option name="REMEMBER_ME" value="true" />
-    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
-    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
-    <option name="DUPLICATES_BUILD_TYPE_IDS" />
-    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
-    <option name="COVERAGE_SETTINGS" />
-    <option name="TEST_STATUS_ENABLED" value="true" />
-    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
-    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
-    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
-    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
-    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
-    <option name="REQUEST_CONFIRMATON" value="false" />
-    <option name="PRE_TESTED_COMMIT" value="true" />
-    <option name="FILTER_BY_STATUS" value="false" />
-    <option name="FILTER_MARKED_AS_FIXED" value="false" />
-    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57d0756d-7132-4987-b08c-74afd4594fe9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/readme.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/readme.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +49,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.github/workflows" />
     </key>
@@ -86,7 +74,8 @@
       <workItem from="1596826715954" duration="1813000" />
       <workItem from="1597056571916" duration="82000" />
       <workItem from="1598808709650" duration="5198000" />
-      <workItem from="1598817740475" duration="2456000" />
+      <workItem from="1598817740475" duration="3056000" />
+      <workItem from="1610970466818" duration="8868000" />
     </task>
     <servers />
   </component>
@@ -104,11 +93,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="834" y="320" key="SettingsEditor" timestamp="1598820448216">
-      <screen x="0" y="25" width="2560" height="1359" />
-    </state>
-    <state x="834" y="320" key="SettingsEditor/2560.565.1440.875/0.25.2560.1359@0.25.2560.1359" timestamp="1598820448216" />
   </component>
 </project>

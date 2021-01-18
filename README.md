@@ -1,43 +1,67 @@
-<h2 align='center'>
-  Hi there👋 I'm Bart 👨‍💻
-  <br/>
-  <a href="https://bartvanzeist.nl">
-      <img src="https://img.shields.io/badge/bartvanzeist-%2300B9C0.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfiAwgWLCV/0iI9AAADQUlEQVRIx43V/WuWZRQH8I+3e6a2aZQaiU4nouB8KdCCoF+2/aZtQTldUMwMAsuX/oBArT+hX7JMCILehIdq0MteHucrhc9mkq7NPRKxNpUp5obNsWdXP+zu3tsz7bp+Oed7n/O9zn2uc841R+G1Wq0t1liIQTlZ3/jD/1rFDugQCux2+xQ/zL1eThAMaHRPh/POu+ieRgOCoMfO2Z3n+VQQZG2zxg2tFkhLe0SbfmtsjyM7XjiOpc4I7nhNJCWr02NIS+NxXX5RJNLgb8Epi6e7p7QJcirAYcM2kRDwtBHvgnV+F5w1byrBcUG/pWCl4dh4goDD7lkRx3pd8PFk91cE9wXNKnBMrwUzCEr0+QgbtMTWdRMXlxO8qsplY5oNO5BQTxDwjn80G/ObSg2Cq1LjH/YL2kVIqdMpGNLqiHpVMjKq1XtPqyHBZTsUIXJRsHec4FfBtuScU350wJd6pxRRry/s1yST2NUI2qFcMKAohhcZsTuW51uuSZMV5sfIG0YsjOW5BgTlkRfRaDSGn5JyLpaH/WXIkF7DMXJWyuZYzvseL0S2ojUJbINhuVlrtcf9uFLEXlsjq9GdgMv0yc9KMKrP8kTrxuoii3DIYAxutsRXk1yeYYq+WH0SwyI8Gk07Y47wwG4NM+ydETyXAO9P+p3phTSehSOJ/LygLZLD2gS8aZk5s54fedLNRFuHa5EsqhPwilIrZyUoV+JyolXhAquMuZUU0hJ5u5L2KdOiRZmSpOnyySRIuW1MGXQItie8Wd866IT+KaXc72sHNfo5sasVXBgX9wk6RCi2S7dgUJND6lTKyKhU57Amg4IuO6Uw16WJZirWI2hQrVNei1ENBW/hdaNajLmiyh5B13/tzM54RDRZj7ROc2cQFOlyAhWaBSOClybn9xPB9XikbZT35gyCt4xaD55wQ3B0+lA9KcjZCD50Zzy/CUG5uz4Am1wTnJ452pc4Lbhrt0ipa06blxDMd06PEpE9BgVtM8f6eDKPCYKLajxryGciaWmRzw3aqtYlQXD0QQ/cDlcFwS0n5f0gI+MnozJuC4IuLz/sdUx5W3vBxzVr78TFTWrHgmuVGlusVYoh3bK+82chw38BLahOufsyPpsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTgtMDMtMDhUMjI6NDQ6MzYrMDA6MDDGIPDuAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE4LTAzLTA4VDIyOjQ0OjM2KzAwOjAwt31IUgAAAABJRU5ErkJggg==" />        
-    </a>&nbsp;&nbsp;
-</h2>
+![Banner Image](./assets/character.jpg)
 
-### I'm a student and developer.
-Born in the Netherlands, 20 years old, fluent in Dutch 🇳🇱 and English 🇬🇧(CAE)
-- 🤓 I'm currently working on [my own website][website]!
+# Hi there 👋 I'm Bart
+
+I'm a student and developer.
+Born in the Netherlands, 20 years old, fluent in Dutch 🇳🇱 and English (CAE) 🇬🇧
+- 🤓 I'm currently busy exploring machine learning!
 - 📚 I'm in my third year of studies towards a bachelor's in Computer Sciences @ [windesheim]
-- 🥅 2020 Goals: finish the second year of my studies (✅) and do an internship (✅)
-- ⚡ Fun fact: I like baking and cooking
+- 🥅 2021 Goals: finish the third year of my studies (status: pending...)
+- ⚡ Fun facts: I like baking and cooking
 
 ### Contact me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/bart-van-zeist-543442193)
 [![mailto](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartvanzeist2000@gmail.com)
 
+---
+
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Command line" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<br />
+<p>
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4a154b?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="CocoaPods" src="https://img.shields.io/badge/-Cocoapods-ee3322?style=flat-square&logo=cocoapods&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-fa7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-fe7a16?style=flat-square&logo=stackoverflow&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scitkit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=black" />
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=c sharp&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575f9?style=flat-square&logo=xcode&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052cc?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+  <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
+  <img alt="TeamCity" src="https://img.shields.io/badge/-TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -50,98 +74,5 @@ Desktop:<br/>
 Laptop:<br/>
   <img src="https://img.shields.io/badge/apple-macbook%20pro%202017%2013″-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.bphvz.vercel.app/api?username=BPHvZ&show_icons=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" />
-  &nbsp;
-  <img align="left" alt="BPHvZ's Github Stats" src="https://github-readme-stats.bphvz.vercel.app/api/top-langs/?username=BPHvZ&layout=compact&theme=dark&hide_border=true" />
-</details>
-
-[website]: https://bartvanzeist.nl
 [windesheim]: https://www.windesheim.nl/opleidingen/voltijd/bachelor/hbo-ict-zwolle
 [linkedin]: https://nl.linkedin.com/in/bart-van-zeist-543442193
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 10 Contributions in the Year 2021
- > 
-> 📦 119.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
-🌆 Daytime    88 commits     █████████████░░░░░░░░░░░░   52.69% 
-🌃 Evening    67 commits     ██████████░░░░░░░░░░░░░░░   40.12% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
-Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
-Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
-Thursday     25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Saturday     20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-Sunday       53 commits     ████████░░░░░░░░░░░░░░░░░   31.74%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-Python                   1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   40.75% 
-TypeScript               1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   33.81% 
-JSON                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02% 
-Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
-
-🔥 Editors: 
-WebStorm                 2 hrs 35 mins       ██████████████░░░░░░░░░░░   59.02% 
-PyCharm                  1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   40.98%
-
-🐱‍💻 Projects: 
-trainSpotter             2 hrs 35 mins       ██████████████░░░░░░░░░░░   59.02% 
-analyse                  1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   40.98% 
-onderzoek-testen         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Swift** 
-
-```text
-Swift                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-C#                       4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/BPHvZ/BPHvZ/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
