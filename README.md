@@ -3,7 +3,7 @@
 # Hi there 👋 I'm Bart
 
 I'm a student and developer.
-Born in the Netherlands, 20 years old, fluent in Dutch 🇳🇱 and English (CAE) 🇬🇧
+I live in the Netherlands, I'm 20 years old and I speak Dutch 🇳🇱 and English (CAE) 🇬🇧
 - 🤓 I'm currently busy exploring machine learning!
 - 📚 I'm in my third year of studies towards a bachelor's in Computer Sciences @ [windesheim]
 - 🥅 2021 Goals: finish the third year of my studies (status: pending...)
