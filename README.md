@@ -3,10 +3,10 @@
 # Hi there 👋 I'm Bart
 
 I'm a student and developer.
-I live in the Netherlands, I'm 20 years old and I speak Dutch 🇳🇱 and English (CAE) 🇬🇧
-- 🤓 I'm currently busy exploring Azure and Azure DevOps!
-- 📚 I'm in my fourth (and last) year of studies towards a bachelor's in Computer Sciences @ [windesheim]
-- 🥅 2021 Goals: move into my own apartment (succeeded)
+I live in the Netherlands, I'm 21 years old and I speak Dutch 🇳🇱 and English (CAE) 🇬🇧
+- 🤓 I'm currently busy exploring Flutter, Swift, Angular and Azure!
+- 📚 I'm in my fourth (and last) year of studies towards a bachelors degree in Computer Sciences @ [windesheim]
+- 🥅 2022 goal: finishing my studies 👨🏼‍🎓
 - ⚡ Fun facts: I like baking and cooking
 
 ### Contact me:
