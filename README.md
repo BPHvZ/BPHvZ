@@ -2,11 +2,11 @@
 
 # Hi there 👋 I'm Bart
 
-I'm a student and developer.
-I live in the Netherlands, I'm 21 years old and I speak Dutch 🇳🇱 and English (CAE) 🇬🇧
-- 🤓 I'm currently busy exploring Flutter, Swift, Angular and Azure!
-- 📚 I'm in my fourth (and last) year of studies towards a bachelors degree in Computer Sciences @ [windesheim]
-- 🥅 2022 goal: finishing my studies 👨🏼‍🎓
+I'm a developer.
+I live in the Netherlands, I'm 21 years old
+- 🤓 I'm currently busy exploring Flutter, Swift, Angular, Azure and Google Cloud!
+- 📚 I have graduated with a bachelors degree in Computer Sciences @ [Windesheim]
+- 🥅 2022 goal: start working
 - ⚡ Fun facts: I like baking and cooking
 
 ### Contact me:
@@ -72,7 +72,7 @@ Desktop:<br/>
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-rtx%202070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /><br/>
 Laptop:<br/>
-  <img src="https://img.shields.io/badge/apple-macbook%20pro%202017%2013″-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/apple-macbook%20pro%20M1%202021%2016%E2%80%B3-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 
-[windesheim]: https://www.windesheim.nl/opleidingen/voltijd/bachelor/hbo-ict-zwolle
+[Windesheim]: https://www.windesheim.nl/opleidingen/voltijd/bachelor/hbo-ict-zwolle
 [linkedin]: https://nl.linkedin.com/in/bart-van-zeist-543442193
